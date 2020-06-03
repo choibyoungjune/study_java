@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kjune.CalculateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-03T02:54:05" hostname="402-22" time="0.077">
-  <properties/>
-  <testcase name="testIntegerAdd()" classname="com.kjune.CalculateTest" time="0.077"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
